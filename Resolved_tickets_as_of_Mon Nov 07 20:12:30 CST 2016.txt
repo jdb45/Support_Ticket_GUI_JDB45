@@ -1,0 +1,1 @@
+ID = 1 Issued: User ABC got locked out of system  Priority: 4 Reported by: Jeremy  Reported on: Mon Nov 07 20:08:37 CST 2016 Resolution date: Mon Nov 07 20:11:27 CST 2016 Resolution why ticket was closed: Reset system

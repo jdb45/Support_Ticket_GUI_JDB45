@@ -1,0 +1,1 @@
+ID = 1 Issued: Users mouse stopped working     Priority: 2 Reported by: Jeremy     Reported on: Mon Nov 07 20:05:50 CST 2016 Resolution date: Mon Nov 07 20:07:52 CST 2016 Resolution why ticket was closed: Got user a new mouse

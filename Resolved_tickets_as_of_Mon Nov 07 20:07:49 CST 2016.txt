@@ -1,0 +1,1 @@
+ID = 1 Issued: Users HDD crashed    Priority: 5 Reported by: Jeremy    Reported on: Mon Nov 07 20:05:31 CST 2016 Resolution date: Mon Nov 07 20:07:33 CST 2016 Resolution why ticket was closed: Replaced HDD

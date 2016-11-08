@@ -1,0 +1,1 @@
+ID = 1 Issued: User 1122 forgot password   Priority: 3 Reported by: Jeremy   Reported on: Mon Nov 07 20:05:13 CST 2016 Resolution date: Mon Nov 07 20:06:38 CST 2016 Resolution why ticket was closed: Reset users password
